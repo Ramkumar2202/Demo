@@ -10,3 +10,5 @@
 4. Styles added for div tag.
 
 5. Forms tags are added.
+
+6. video and audio tags are added.
