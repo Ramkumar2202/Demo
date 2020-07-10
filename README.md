@@ -14,3 +14,5 @@
 6. video and audio tags are added.
 
 7. Java scirpt code added(to change the h1 text).
+
+8. Font size vw unit is added.
